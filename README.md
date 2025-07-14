@@ -1,5 +1,5 @@
 # GitLab
 ## Collaborators
-* Alisa Steen
+* Alisa Steensen
 * Carmen Mendoza
 * Adam Bailey
